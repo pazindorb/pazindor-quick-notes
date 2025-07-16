@@ -1,13 +1,14 @@
 {
-  "id": "pazindors-quick-notes",
+  "id": "pazindor-quick-notes",
   "title": "Pazindor's Quick Notes",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
   },
+  "socket": true,
   "esmodules": [
-    "module/pazindors-quick-notes.mjs"
+    "module/pazindor-quick-notes.mjs"
   ],
   "authors": [{
     "name": "Pazindor",
@@ -23,5 +24,5 @@
   ],
   "flags": {
   },
-  "description": "<p>Simple module that allow you to write quick notes. Later you can write them dawn as a journal.</p>"
+  "description": "<p>Simple module that allow you to write quick notes and create private journals.</p>"
 }
