@@ -1,6 +1,11 @@
 {
   "id": "pazindor-quick-notes",
   "title": "Pazindor's Quick Notes",
+  "authors": [{
+    "name": "Pazindor",
+    "email": "xxpazindorxx@gmail.com",
+    "discord": "Patryk#6024"
+  }],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
@@ -10,11 +15,6 @@
   "esmodules": [
     "module/pazindor-quick-notes.mjs"
   ],
-  "authors": [{
-    "name": "Pazindor",
-    "email": "xxpazindorxx@gmail.com",
-    "discord": "Patryk#6024"
-  }],
   "languages": [
     {
       "lang": "en",
