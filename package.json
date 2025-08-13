@@ -1,0 +1,11 @@
+{
+  "name": "pazindor-quick-notes",
+  "version": "1.0.0",
+  "scripts": {
+    "build:code": "rollup ./module/pazindor-quick-notes.mjs -f es -o ./release/module/pazindor-quick-notes.mjs"
+  },
+  "private": true,
+  "devDependencies": {
+    "rollup": "^4.46.2"
+  }
+}
