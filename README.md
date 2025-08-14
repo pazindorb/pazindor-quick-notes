@@ -1,1 +1,1 @@
-Simple module that allow you to write quick notes and create private journals.
+A simple module that allows you to quickly save notes and create private journals.
