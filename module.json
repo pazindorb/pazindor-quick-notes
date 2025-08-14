@@ -24,5 +24,8 @@
   ],
   "flags": {
   },
-  "description": "<p>Simple module that allow you to write quick notes and create private journals.</p>"
+  "description": "<p>A simple module that allows you to quickly save notes and create private journals.</p>",
+  "url": "",
+  "manifest": "https://github.com/pazindorb/pazindor-quick-notes/releases/download/1.0.0/module.json",
+  "download": "https://github.com/pazindorb/pazindor-quick-notes/releases/download/1.0.0/pazindor-quick-notes.zip"
 }
